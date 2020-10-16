@@ -1,6 +1,6 @@
+
 package page;
 
-import help.Open;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;

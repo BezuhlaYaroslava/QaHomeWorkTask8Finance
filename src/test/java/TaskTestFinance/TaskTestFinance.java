@@ -1,6 +1,6 @@
+
 package TaskTestFinance;
 import org.junit.Assert;
-import help.*;
 import org.junit.Before;
 import org.junit.jupiter.api.BeforeEach;
 import org.openqa.selenium.WebDriver;
@@ -14,7 +14,6 @@ public class TaskTestFinance {
 
     String actualResult;
     String expectedResult;
-    private Open open;
     private HomePage homePage;
     private WebDriver driver;
 
